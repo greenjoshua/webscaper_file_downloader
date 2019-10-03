@@ -1,0 +1,5 @@
+# ignore all test files
+Test_Folder/csv_opener.py
+Test_Folder/goshdangit.py
+Test_Folder/scratch.py
+Test_Folder/testing.py
